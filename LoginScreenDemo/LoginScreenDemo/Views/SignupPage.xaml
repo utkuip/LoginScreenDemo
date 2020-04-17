@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="LoginScreenDemo.Views.SignupPage">
+    
+ 
+    <ContentPage.Content>
+        <StackLayout x:Name="MasterLayout">
+
+            <StackLayout>
+                <StackLayout.Padding>
+                    <OnIdiom x:TypeArguments="Thickness">
+                        <OnIdiom.Phone>40,0,40,0</OnIdiom.Phone>
+                    </OnIdiom>
+
+
+                </StackLayout.Padding>
+
+              
+
+                <Label x:Name ="lblSignUsername"  Text="Enter the username" 
+                    HorizontalOptions="CenterAndExpand" />
+
+                <Entry x:Name="entrySignUsername" Placeholder="ex:utkuip" />
+
+                <Label x:Name="lblSignPassword"   Text="Enter the password"
+                    HorizontalOptions="CenterAndExpand" />
+
+                <Entry x:Name ="entrySignPassword" Placeholder="Password" />
+
+                <Button x:Name="bttnSign" Text="Sign up" Clicked="signUp"/>
+
+
+
+
+                <Label x:Name ="lblLoginUsername"  Text="Enter your username" 
+                    HorizontalOptions="CenterAndExpand" />
+
+                <Entry x:Name="entryLoginUsername" Placeholder="Your username" />
+
+                <Label x:Name="lblLoginPassword"   Text="Enter your password"
+                    HorizontalOptions="CenterAndExpand" />
+
+                <Entry x:Name ="entryLoginPassword" Placeholder="Your password" />
+
+                <Button x:Name="bttnLogin" Text="Login" Clicked="logIn"/>
+
+            </StackLayout>
+        </StackLayout>
+
+
+
+    </ContentPage.Content>
+</ContentPage>

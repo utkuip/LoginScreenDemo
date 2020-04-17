@@ -1,0 +1,13 @@
+C:\Users\utkui\source\repos\LoginScreenDemo\LoginScreenDemo\LoginScreenDemo\bin\Debug\netstandard2.0\LoginScreenDemo.deps.json
+C:\Users\utkui\source\repos\LoginScreenDemo\LoginScreenDemo\LoginScreenDemo\bin\Debug\netstandard2.0\LoginScreenDemo.dll
+C:\Users\utkui\source\repos\LoginScreenDemo\LoginScreenDemo\LoginScreenDemo\bin\Debug\netstandard2.0\ref\LoginScreenDemo.dll
+C:\Users\utkui\source\repos\LoginScreenDemo\LoginScreenDemo\LoginScreenDemo\bin\Debug\netstandard2.0\LoginScreenDemo.pdb
+C:\Users\utkui\source\repos\LoginScreenDemo\LoginScreenDemo\LoginScreenDemo\obj\Debug\netstandard2.0\LoginScreenDemo.csprojAssemblyReference.cache
+C:\Users\utkui\source\repos\LoginScreenDemo\LoginScreenDemo\LoginScreenDemo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\utkui\source\repos\LoginScreenDemo\LoginScreenDemo\LoginScreenDemo\obj\Debug\netstandard2.0\LoginScreenDemo.AssemblyInfoInputs.cache
+C:\Users\utkui\source\repos\LoginScreenDemo\LoginScreenDemo\LoginScreenDemo\obj\Debug\netstandard2.0\LoginScreenDemo.AssemblyInfo.cs
+C:\Users\utkui\source\repos\LoginScreenDemo\LoginScreenDemo\LoginScreenDemo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\utkui\source\repos\LoginScreenDemo\LoginScreenDemo\LoginScreenDemo\obj\Debug\netstandard2.0\LoginScreenDemo.dll
+C:\Users\utkui\source\repos\LoginScreenDemo\LoginScreenDemo\LoginScreenDemo\obj\Debug\netstandard2.0\ref\LoginScreenDemo.dll
+C:\Users\utkui\source\repos\LoginScreenDemo\LoginScreenDemo\LoginScreenDemo\obj\Debug\netstandard2.0\LoginScreenDemo.pdb
+C:\Users\utkui\source\repos\LoginScreenDemo\LoginScreenDemo\LoginScreenDemo\obj\Debug\netstandard2.0\Views\SignupPage.xaml.g.cs
